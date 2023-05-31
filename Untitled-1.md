@@ -68,7 +68,7 @@ Details: https://mp.weixin.qq.com/s?__biz=MzU3MDcyNDk0OQ==&tempkey=MTIyMF9xN2h3b
 
  在交流讨论环节，现场的同学们与各位专家进行了热烈的讨论。通过与专家们的互动，同学们不仅拓宽了自己的学术视野，还深入了解了自然语言处理领域的最新动态和前沿技术，同时，还学习到了宝贵的科研经验和方法。
 ![交流讨论1.jpg](./Picture/交流讨论1.jpg) 
-![交流讨论2.JPG](./picture/交流讨论2.JPG) 
+![交流讨论2.JPG](./Picture/交流讨论2.JPG) 
 
 ## 活动闭幕
 ![结尾图组.jpg](./Picture/结尾图组.jpg) 
